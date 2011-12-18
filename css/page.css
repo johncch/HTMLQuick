@@ -1,0 +1,12 @@
+header {
+	color: white;
+	position: fixed;
+	background: #222;
+	display: block;
+	width: 100%;
+	padding: 15px 20px;
+	z-index: 100;
+	box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.5);
+}
+
+
