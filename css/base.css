@@ -113,6 +113,7 @@ hr {
 	min-height: 600px;
 	padding-bottom: 40px;
 	margin: 0 auto;
+	background: url(../images/grid.png);
 }
 
 .container::after,
